@@ -17,7 +17,7 @@ app.use(express.json());
 
 // Routes
  
-
+console.log("CodeRabbit AI test change");
 // Connect to MongoDB
 mongoose
   .connect(`mongodb+srv://endhrajiththiyagu:end123@cluster0.3wu5ebk.mongodb.net/`)
